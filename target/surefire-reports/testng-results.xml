@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-14T16:42:11 CET" name="Suite" finished-at="2024-11-14T16:43:45 CET" duration-ms="93722">
+    <groups>
+    </groups>
+    <test started-at="2024-11-14T16:42:11 CET" name="Test" finished-at="2024-11-14T16:43:45 CET" duration-ms="93722">
+      <class name="amazontest.Testcase4">
+        <test-method is-config="true" signature="driverinitiation()[pri:0, instance:amazontest.Testcase4@6e0dec4a]" started-at="2024-11-14T16:43:12 CET" name="driverinitiation" finished-at="2024-11-14T16:43:17 CET" duration-ms="5054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverinitiation -->
+        <test-method signature="wishlist()[pri:0, instance:amazontest.Testcase4@6e0dec4a]" started-at="2024-11-14T16:43:17 CET" name="wishlist" finished-at="2024-11-14T16:43:45 CET" duration-ms="27322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishlist -->
+      </class> <!-- amazontest.Testcase4 -->
+      <class name="amazontest.Testcase3">
+        <test-method is-config="true" signature="driverinitiation()[pri:0, instance:amazontest.Testcase3@7a4ccb53]" started-at="2024-11-14T16:42:23 CET" name="driverinitiation" finished-at="2024-11-14T16:42:28 CET" duration-ms="5639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverinitiation -->
+        <test-method signature="wishlist()[pri:0, instance:amazontest.Testcase3@7a4ccb53]" started-at="2024-11-14T16:42:28 CET" name="wishlist" finished-at="2024-11-14T16:42:51 CET" duration-ms="22949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishlist -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:amazontest.Testcase3@7a4ccb53]" started-at="2024-11-14T16:42:51 CET" name="quit" finished-at="2024-11-14T16:42:56 CET" duration-ms="4226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- amazontest.Testcase3 -->
+      <class name="amazontest.Testcase2">
+        <test-method is-config="true" signature="driverinitiation()[pri:0, instance:amazontest.Testcase2@56528192]" started-at="2024-11-14T16:42:56 CET" name="driverinitiation" finished-at="2024-11-14T16:43:03 CET" duration-ms="7000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverinitiation -->
+        <test-method signature="search()[pri:0, instance:amazontest.Testcase2@56528192]" started-at="2024-11-14T16:43:03 CET" name="search" finished-at="2024-11-14T16:43:09 CET" duration-ms="6617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:amazontest.Testcase2@56528192]" started-at="2024-11-14T16:43:09 CET" name="quit" finished-at="2024-11-14T16:43:12 CET" duration-ms="3190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- amazontest.Testcase2 -->
+      <class name="amazontest.Testcase1">
+        <test-method signature="logintoamazon()[pri:0, instance:amazontest.Testcase1@29176cc1]" started-at="2024-11-14T16:42:11 CET" name="logintoamazon" finished-at="2024-11-14T16:42:23 CET" duration-ms="11706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoamazon -->
+      </class> <!-- amazontest.Testcase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
